@@ -1,1 +1,1 @@
-#!/usr/bin/pythonprint "l"
+#!/usr/bin/pythonprint "la"
